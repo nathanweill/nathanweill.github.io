@@ -1,0 +1,14 @@
+# jemdoc: menu{MENU}{index.html}
+
+= Nathan Weill
+
+~+ profile.jpg
+I am a third-year PhD student in the [Department of Industrial Engineering and Operations Research](https://www.ieor.columbia.edu/) at [Columbia University](https://www.columbia.edu/), advised by Professor [Kaizheng Wang](https://kw2934.github.io/).
+Prior to joining Columbia, I received my Master's degree in Applied Mathematics at [Mines Paris-PSL](https://www.minesparis.psl.eu/en/home/), and my Master's degree in Artificial Intelligence from the [MVA](https://www.master-mva.com) at [Ecole Normale Supérieure Paris-Saclay](https://ens-paris-saclay.fr).
+Email: nathan.weill [AT] columbia [DOT] edu
+
+== Research Interests
+My research focuses on machine learning theory and transfer learning. Recently I have been working on unsupervised domain adaptation in non-parametric regression.
+
+== News
+*
