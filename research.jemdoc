@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{research.html}
+
+= Research
+
+== Preprints
+* *Title*
+  Authors. Year. [arXiv](...) [Code](...)
+
+== Publications
+* *Title*
+  Venue. Year. [PDF](...)
